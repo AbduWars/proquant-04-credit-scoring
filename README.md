@@ -53,19 +53,19 @@ Many lenders approve with rules of thumb or a vendor score nobody can explain. M
 
 ## Deliverables
 
-Everything opens from **one file**, `00_START_HERE`, in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them.
+Everything opens from **one file**, *Start here* (no. 1), in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them. PowerPoint and Excel files open in the browser through Microsoft's free online viewer; *download* gives the original file.
 
 | # | File | Format | What it is |
 |---|---|---|---|
-| 00 | [Start here](https://abduwars.github.io/proquant-04-credit-scoring/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
-| 01 | [Report](sample-delivery/01_DemoClient_CreditScoring_Report_v1.0_20261111.pdf) | PDF | Development and validation report (~22 pages) |
-| 02 | [Summary](sample-delivery/02_DemoClient_CreditScoring_Summary_v1.0_20261111.pdf) | PDF | One page: the decision, with no charts |
-| 03 | [Presentation](sample-delivery/03_DemoClient_CreditScoring_Presentation_v1.0_20261111.pptx) | PowerPoint | **A full talk**: 14 slides with editable charts and speaker notes, ready to present |
-| 04 | [Results Workbook](sample-delivery/04_DemoClient_CreditScoring_ResultsWorkbook_v1.0_20261111.xlsx) | Excel | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
-| 05 | [Methodology](sample-delivery/05_DemoClient_CreditScoring_Methodology_v1.0_20261111.pdf) | PDF | Model documentation for model risk, audit and the regulator |
-| 06 | [Handover Note](sample-delivery/06_DemoClient_CreditScoring_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, conditions, assumptions, go-live and monitoring |
-| 08 | [Scoring Calculator](https://abduwars.github.io/proquant-04-credit-scoring/sample-delivery/08_DemoClient_CreditScoring_ScoringCalculator_v1.0_20261111.html) | HTML (opens in any browser) | **Scoring calculator**: one self-contained page where the credit team scores an applicant, sees the decision and the reasons |
-| 09 | [Dashboard](https://abduwars.github.io/proquant-04-credit-scoring/sample-delivery/09_DemoClient_CreditScoring_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
+| 1 | [Start here](https://abduwars.github.io/proquant-04-credit-scoring/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
+| 2 | [Report](sample-delivery/01_DemoClient_CreditScoring_Report_v1.0_20261111.pdf) | PDF | Development and validation report (~22 pages) |
+| 3 | [Summary](sample-delivery/02_DemoClient_CreditScoring_Summary_v1.0_20261111.pdf) | PDF | One page: the decision, with no charts |
+| 4 | [Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-04-credit-scoring%2Fsample-delivery%2F03_DemoClient_CreditScoring_Presentation_v1.0_20261111.pptx) | PowerPoint · [download](https://raw.githubusercontent.com/AbduWars/proquant-04-credit-scoring/main/sample-delivery/03_DemoClient_CreditScoring_Presentation_v1.0_20261111.pptx) | **A full talk**: 14 slides with editable charts and speaker notes, ready to present |
+| 5 | [Results Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-04-credit-scoring%2Fsample-delivery%2F04_DemoClient_CreditScoring_ResultsWorkbook_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-04-credit-scoring/main/sample-delivery/04_DemoClient_CreditScoring_ResultsWorkbook_v1.0_20261111.xlsx) | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
+| 6 | [Methodology](sample-delivery/05_DemoClient_CreditScoring_Methodology_v1.0_20261111.pdf) | PDF | Model documentation for model risk, audit and the regulator |
+| 7 | [Handover Note](sample-delivery/06_DemoClient_CreditScoring_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, conditions, assumptions, go-live and monitoring |
+| 8 | [Scoring Calculator](https://abduwars.github.io/proquant-04-credit-scoring/sample-delivery/08_DemoClient_CreditScoring_ScoringCalculator_v1.0_20261111.html) | HTML (opens in any browser) | **Scoring calculator**: one self-contained page where the credit team scores an applicant, sees the decision and the reasons |
+| 9 | [Dashboard](https://abduwars.github.io/proquant-04-credit-scoring/sample-delivery/09_DemoClient_CreditScoring_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
 
 **Delivered to clients only, not in this showcase:** scoring pack (scorecard JSON, Python scorer, SQL, test cases).
 
